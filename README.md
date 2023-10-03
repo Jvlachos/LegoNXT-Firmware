@@ -6,8 +6,8 @@
 **Computer Science Department University Of Crete**
 
 - Thodoris Pontzouktzidis csd4336 https://github.com/Thodorhs
-- Dimitris Vlachos csd4492 https://github.com/alexander459
-- Alexandros Tevrentzidis csd4383 https://github.com/Jvlachos
+- Dimitris Vlachos csd4492 https://github.com/Jvlachos
+- Alexandros Tevrentzidis csd4383 https://github.com/alexander459
 
 ## Abstract
 
